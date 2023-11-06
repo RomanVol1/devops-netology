@@ -1,6 +1,7 @@
 # devops-netology
 1st_line
 new_line
+test_PyCharm
 
 **/.terraform/* - игнор всех файлов в скрытой папке ".terraform", не важно какой путь к папке.
 *.tfstate и *.tfstate.* - игнор всех файлов с расширением *.tfstate или  "любые символы.tfstate.другое расширение или символы имени" находящихся в той папке, где лежит .gitignore
